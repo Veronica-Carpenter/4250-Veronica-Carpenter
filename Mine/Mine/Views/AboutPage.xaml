@@ -42,7 +42,7 @@ Title="{Binding Title}">
             <StackLayout Orientation="Vertical" Padding="16,40,16,40" Spacing="10">
                 <Label Text="CPSC 5250 WQ22"></Label>
                 <Label Text="Veronica Carpenter"></Label>
-                <Label Text="1/14/2022 - 11:28am"></Label>
+                <Label x:Name="CurrentDateTimeLabel"></Label>
             </StackLayout>
         </ScrollView>
     </Grid>
