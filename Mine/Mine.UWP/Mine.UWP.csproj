@@ -106,7 +106,7 @@
   <ItemGroup>
     <Content Include="icon_add.png" />
     <Content Include="icon_cancel.png" />
-    <Content Include="Assets\icon_delete.png" />
+    <Content Include="icon_delete.png" />
     <Content Include="Assets\icon_save.png" />
     <Content Include="Assets\icon_update.png" />
     <Content Include="Assets\LargeTile.scale-100.png" />
