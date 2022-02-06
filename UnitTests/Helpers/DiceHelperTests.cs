@@ -27,7 +27,7 @@ namespace UnitTests.Helpers
         }
 
         [Test]
-        public void RollDice_Invalid_Dice_Zero_Should_Return_Zero()
+        public void RollDice_InValid_Roll_1_Dice_0_Should_Return_Zero()
         {
             // Arrange
 
